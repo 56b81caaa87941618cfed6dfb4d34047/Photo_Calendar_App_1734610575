@@ -1,0 +1,23 @@
+{
+    "name": "example",
+    "prefix": "%#PLACEHOLDER",
+    "placeholderMappings": {
+        "Header": [
+            "APPLICATION_NAME"
+        ],
+        "Hero": [
+            "HERO_HEADING_TEXT",
+            "HERO_SUBHEADING_TEXT"
+        ],
+        "Footer": [
+            "APPLICATION_NAME",
+            "FOOTER_TEXT"
+        ]
+    },
+    "placeholders": {
+        "APPLICATION_NAME": "SnapCal",
+        "HERO_HEADING_TEXT": "Turn Your Memories into Beautiful Calendars",
+        "HERO_SUBHEADING_TEXT": "Create personalized photo calendars with ease, bringing your cherished moments to life every day of the year",
+        "FOOTER_TEXT": "\u00a9 2023 SnapCal. Capture time, one photo at a time."
+    }
+}
