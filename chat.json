@@ -80,5 +80,13 @@
         "source": "smart_contract_assistant",
         "content": "The staking smart contract has been generated successfully. Would you like to deploy it now?",
         "metadata": {}
+    },
+    {
+        "id": "83759507-3c5d-4869-a0bc-9b18a054d541",
+        "timestamp": "2024-12-19T12:17:31.047273Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "deploy it to holesky, yes",
+        "metadata": {}
     }
 ]
