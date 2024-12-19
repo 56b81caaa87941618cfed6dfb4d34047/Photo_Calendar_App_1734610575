@@ -88,5 +88,20 @@
         "source": "web_client",
         "content": "deploy it to holesky, yes",
         "metadata": {}
+    },
+    {
+        "id": "c5509d0a-9335-402b-aee9-9621c94f55f6",
+        "timestamp": "2024-12-19T12:17:33.240088Z",
+        "role": "tool_call",
+        "source": "smart_contract_assistant",
+        "content": null,
+        "metadata": {
+            "id": "call_nmnf15PwluYQWC4lId8h2DM0",
+            "function": {
+                "arguments": "{\"contract_id\":\"staking_contract_01\",\"chain\":\"HOLESKY\",\"frontend_description\":\"Frontend component to interact with the staking smart contract, allowing users to stake tokens, view their rewards, and withdraw tokens.\",\"acknowledgement_message\":\"I'm deploying the contract to HOLESKY...\"}",
+                "name": "DeployAndGenerateFrontend"
+            },
+            "type": "function"
+        }
     }
 ]
